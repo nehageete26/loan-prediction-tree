@@ -115,7 +115,7 @@ plt.show()
 
 ## 📌 Author
 
-**Atul Thakre**
+**Neha Geete**
 
 If you found this helpful, feel free to ⭐ the repo or connect!
 
