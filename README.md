@@ -1,6 +1,6 @@
 # 📊 Loan Approval Prediction using Decision Tree
 
-This project uses a Decision Tree Classifier to predict loan approval status based on applicant details. The dataset used is from [Kaggle - Loan Prediction Problem](https://www.kaggle.com/c/loan-prediction-problem/data).
+This project uses a Decision Tree Classifier to predict loan approval status based on applicant details. The dataset used is from [Kaggle - Loan Prediction Problem](https://www.kaggle.com/datasets/krishnaraj30/finance-loan-approval-prediction-data).
 
 ---
 
