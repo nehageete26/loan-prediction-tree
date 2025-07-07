@@ -42,7 +42,7 @@ accuracy = accuracy_score(y_test,y_pred)
 print(f"accuracy: {accuracy * 100:.2f}%")
 
 #step10: visualise decision tree 
-plt.figure(figsize=(20,20)) # adjust the size of the plot
+plt.figure(figsize=(15,8)) # adjust the size of the plot
 plot_tree(
     model,
     filled=True,
